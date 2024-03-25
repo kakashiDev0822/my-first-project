@@ -1,0 +1,9 @@
+
+
+.mask{
+  mask-image: url('../../../public/assets/image/mask.png');
+  background: transparent;
+  mask-size: 100%;
+  mask-position: bottom;
+  mask-repeat: no-repeat;
+}
